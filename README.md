@@ -11,9 +11,9 @@ whois
 time
 requests
 sys
-urllib.request as urllib2
-from discord_webhook  DiscordWebhook
-from requests  get 
+urllib.request
+discord_webhook
+requests 
 random
 threading 
 colorama
